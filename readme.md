@@ -107,7 +107,7 @@ The purpose of developing this “DeepNews: News Analytics using Sentimental and
 
 <!-- Arham Project 1 -->
 <br>
-<h3 align="center">All In One Application</h3>
+<h3 align="center">Skin lesion detection using deep learning</h3>
 
 <p align="center">
 There were different fyps offered by university buy the one which caught our interest was skin lesion detection using deep learning a research based fyp in which we differentiated between melanoma nevus and serboheic keratosis. we read several articles and generated a custom architecture we tried our best to get the best accuracy as possible and our results were astounding even through lack of resources we achieved an accuracy of over 85%
