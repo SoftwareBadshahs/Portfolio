@@ -5,16 +5,16 @@
 <h3 align="center">Web Developer | Flutter Developer| Python Developer </h3>
 
 <p align="center">
-	<a  href="mailto:SoftwareBadshahs@gmail.com">
+	<a  href="mailto:softtechpro4@gmail.com">
 		<img src="https://img.shields.io/static/v1?label=Email&message=STP&color=F76831">	
 	</a>
 </p>
 
 <p align="center">
-Personal Details
+Soft Tech Pro is a startup and we want to make it a bigger and better softwarehouse (Inshallah) which can make web/mobile/destop applications & websites on new technologies.
 </p>
 <p align="center">
- Aim Details
+ Our aim is to provide better facilities to the costumer to get his/her goals easily and to become a good competitor in the fast growing mordern world in his/her domain.
 </p>
 
 <h1 align="center">Work Experience</h1>
