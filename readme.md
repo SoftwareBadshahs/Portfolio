@@ -6,7 +6,7 @@
 
 <p align="center">
 	<a  href="mailto:SoftwareBadshahs@gmail.com">
-		<img src="https://img.shields.io/static/v1?label=Email&message=SB&color=F76831">	
+		<img src="https://img.shields.io/static/v1?label=Email&message=STP&color=F76831">	
 	</a>
 </p>
 
