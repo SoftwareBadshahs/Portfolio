@@ -8,6 +8,9 @@
 	<a  href="mailto:softtechpro4@gmail.com">
 		<img src="https://img.shields.io/static/v1?label=Email&message=STP&color=F76831">	
 	</a>
+  <a  href="https://m.facebook.com/Soft-Tech-Pro-100820844819082/">
+		<img src="https://img.shields.io/static/v1?label=Email&message=STP&color=blue">	
+	</a>
 </p>
 
 <p align="center">
