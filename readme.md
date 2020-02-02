@@ -9,7 +9,7 @@
 		<img src="https://img.shields.io/static/v1?label=Email&message=STP&color=F76831">	
 	</a>
   <a  href="https://m.facebook.com/Soft-Tech-Pro-100820844819082/">
-		<img src="https://img.shields.io/static/v1?label=Email&message=STP&color=blue">	
+		<img src="https://img.shields.io/static/v1?label=Facebook&message=STP&color=blue">	
 	</a>
 </p>
 
@@ -118,6 +118,7 @@ There were different fyps offered by university buy the one which caught our int
 
 <br>
 <!-- Arham Project 1 -->
+
 
 
 
