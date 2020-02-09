@@ -133,23 +133,23 @@ In this project we use python to draw the graphs and find the errors by using da
 	<br>
 </p>
 <p align="center">
-<img src="./images/Q2P11.png" alt="Screenshot" width="200" height="350">
-<img src="./images/Q2P21.png" alt="Screenshot" width="200" height="350">
-<img src="./images/Q2P31.png" alt="Screenshot" width="200" height="350">
+<img src="./images/Q2p11.png" alt="Screenshot" width="200" height="350">
+<img src="./images/Q2p21.png" alt="Screenshot" width="200" height="350">
+<img src="./images/Q2p31.png" alt="Screenshot" width="200" height="350">
 
 </p>
 
 <p align="center">
-<img src="./images/Q2P41.png" alt="Screenshot" width="200" height="350">
-<img src="./images/Q2P51.png" alt="Screenshot" width="200" height="350">
-<img src="./images/Q2P61.png" alt="Screenshot" width="200" height="350">
+<img src="./images/Q2p41.png" alt="Screenshot" width="200" height="350">
+<img src="./images/Q2p51.png" alt="Screenshot" width="200" height="350">
+<img src="./images/Q2p61.png" alt="Screenshot" width="200" height="350">
 
 </p>
 
 <p align="center">
-<img src="./images/Q3P11.png" alt="Screenshot" width="200" height="350">
-<img src="./images/Q3P21.png" alt="Screenshot" width="200" height="350">
-<img src="./images/Q3P31.png" alt="Screenshot" width="200" height="350">
+<img src="./images/Q3p11.png" alt="Screenshot" width="200" height="350">
+<img src="./images/Q3p21.png" alt="Screenshot" width="200" height="350">
+<img src="./images/Q3p31.png" alt="Screenshot" width="200" height="350">
 
 </p>
 <br>
