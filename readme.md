@@ -11,6 +11,9 @@
   <a  href="https://m.facebook.com/Soft-Tech-Pro-100820844819082/">
 		<img src="https://img.shields.io/static/v1?label=Facebook&message=STP&color=blue">	
 	</a>
+  <a  href="https://www.fiverr.com/tech_pride?up_rollout=true">
+		<img src="https://img.shields.io/static/v1?label=Fiverr&message=STP&color=green">	
+	</a>
 </p>
 
 <p align="center">
