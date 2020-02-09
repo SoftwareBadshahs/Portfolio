@@ -120,5 +120,39 @@ There were different fyps offered by university buy the one which caught our int
 <!-- Arham Project 1 -->
 
 
+<hr>
+<!-- GM Project 2 -->
+<br>
+<h3 align="center">Graphs Of Math Equations Using Python </h3>
+<p align="center">
+In this project we use python to draw the graphs and find the errors by using data set for training & testing and applyin the maths different formulas such as Linear and Polynomial Regression and useing Regularization and Cross-Validation.
+</p>
+
+<p align="center">
+	<code>Python</code>
+	<br>
+</p>
+<p align="center">
+<img src="./images/Q2P11.png" alt="Screenshot" width="200" height="350">
+<img src="./images/Q2P21.png" alt="Screenshot" width="200" height="350">
+<img src="./images/Q2P31.png" alt="Screenshot" width="200" height="350">
+
+</p>
+
+<p align="center">
+<img src="./images/Q2P41.png" alt="Screenshot" width="200" height="350">
+<img src="./images/Q2P51.png" alt="Screenshot" width="200" height="350">
+<img src="./images/Q2P61.png" alt="Screenshot" width="200" height="350">
+
+</p>
+
+<p align="center">
+<img src="./images/Q3P11.png" alt="Screenshot" width="200" height="350">
+<img src="./images/Q3P21.png" alt="Screenshot" width="200" height="350">
+<img src="./images/Q3P31.png" alt="Screenshot" width="200" height="350">
+
+</p>
+<br>
+<!-- GM Project 2 -->
 
 
